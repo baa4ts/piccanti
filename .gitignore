@@ -1,0 +1,52 @@
+# dependencias
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# carpetas de ejemplo o tests
+app-example/
+
+# nativo
+android/
+ios/
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro bundler
+.metro-health-check*
+
+# debug y logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.*
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# certificados y llaves
+*.pem
+
+# env locales
+.env*
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# editor y config
+.vscode/
+.idea/
+
+# otros
+*.log

@@ -1,0 +1,15 @@
+.expo/
+.vscode/
+app-example/
+node_modules/
+.gitignore
+.prettierignore
+.prettierrc
+app.json
+eslint.config.js
+expo-env.d.ts
+package.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+README.md
+tsconfig.json
